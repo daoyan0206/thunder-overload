@@ -5,10 +5,10 @@
   "orientation": "portrait",
   "build": {
     "artifact": "F:\\gamestudio-dsh\\thunder-overload\\dist\\index.html",
-    "buildId": "3d12819e6ca9",
-    "bytes": 49974,
+    "buildId": "68ea913b3177",
+    "bytes": 49978,
     "title": "雷霆战机：无限超载",
-    "builtAt": "2026-11-09T10:15:01.838Z"
+    "builtAt": "2026-11-09T10:24:36.975Z"
   },
   "slots": {
     "hero": {
@@ -81,6 +81,12 @@
   "jobs": [],
   "versions": [
     {
+      "number": 9,
+      "note": "前3波减压：怪物40/176/510血，Boss血量减半，第4波才提高伤害",
+      "createdAt": "2026-11-09T10:23:04.448Z",
+      "buildId": "68ea913b3177"
+    },
+    {
       "number": 8,
       "note": "早期压力实测：站桩第3波失败；多成长档18组对照，正常技能保留",
       "createdAt": "2026-11-09T09:51:23.979Z",
@@ -130,5 +136,5 @@
     }
   ],
   "share": null,
-  "updatedAt": "2026-11-09T10:15:01.843Z"
+  "updatedAt": "2026-11-09T10:24:36.979Z"
 }
