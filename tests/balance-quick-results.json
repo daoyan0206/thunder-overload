@@ -1,0 +1,588 @@
+{
+  "sourceHash": "4ac19761704476d4c6989c1fe597cbb7e2ef7043b3d519d87886ef28ae78baf3",
+  "configHash": "4c81b7325ebbfd1ffb9ee10551ac97edcca6e9dab1a53b8ea641c8905fbae529",
+  "seconds": 80,
+  "seeds": [
+    137,
+    2026,
+    9109
+  ],
+  "banks": [
+    625
+  ],
+  "rules": {
+    "hearts": 6,
+    "heroSpeed": 420,
+    "bossEvery": 25,
+    "bossHealth": 12000,
+    "waveEvery": 20,
+    "waveHealthGrowth": 6,
+    "waveHealthCurve": 3,
+    "waveHealthPower": 1.35,
+    "waveBossHealthGrowth": 0.9,
+    "waveBossHealthCurve": 0.2,
+    "waveBossHealthPower": 1.15,
+    "waveMoveGrowth": 0.2,
+    "waveBulletGrowth": 0.22,
+    "waveFireGrowth": 0.35,
+    "waveSpawnGrowth": 0.45,
+    "waveEliteGrowth": 0.045,
+    "waveDamageEvery": 2,
+    "enemySpawnEvery": 0.42,
+    "enemyHealth": 60,
+    "maxEnemies": 48,
+    "maxPlayerBullets": 360,
+    "maxEnemyBullets": 480,
+    "maxParticles": 600,
+    "maxPickups": 90,
+    "startingLevel": 1,
+    "skillCharge": 100,
+    "enemyDamage": 1,
+    "hitInvulnerability": 1.6,
+    "growth": "endless",
+    "duration": 0
+  },
+  "results": [
+    {
+      "seed": 137,
+      "bank": 625,
+      "core": 5,
+      "mode": "stationary",
+      "initialHearts": 7,
+      "firstDamage": 11.2,
+      "timeDeath": 58.52,
+      "waveDeath": 3,
+      "minHearts": 0,
+      "finalHearts": 0,
+      "bossKills": 1,
+      "peakEnemies": 19,
+      "peakEnemyBullets": 129,
+      "maxMovement": 0,
+      "elapsed": 58.52,
+      "level": 18,
+      "skillUses": 8,
+      "milestones": {
+        "20": {
+          "hearts": 6,
+          "level": 5,
+          "wave": 2,
+          "kills": 43,
+          "bossKills": 0
+        },
+        "40": {
+          "hearts": 7,
+          "level": 14,
+          "wave": 3,
+          "kills": 106,
+          "bossKills": 1
+        }
+      },
+      "damageEvents": [
+        {
+          "time": 11.2,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 12.97,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 22.05,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 26.32,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 29.93,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 33.93,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 35.73,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 37.5,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 45.5,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 50.33,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 53.18,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 56.37,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 58.52,
+          "wave": 3,
+          "loss": 2
+        }
+      ]
+    },
+    {
+      "seed": 137,
+      "bank": 625,
+      "core": 5,
+      "mode": "moving",
+      "initialHearts": 7,
+      "firstDamage": 12.55,
+      "timeDeath": 62.68,
+      "waveDeath": 4,
+      "minHearts": 0,
+      "finalHearts": 0,
+      "bossKills": 1,
+      "peakEnemies": 27,
+      "peakEnemyBullets": 166,
+      "maxMovement": 215.61,
+      "elapsed": 62.68,
+      "level": 18,
+      "skillUses": 9,
+      "milestones": {
+        "20": {
+          "hearts": 7,
+          "level": 5,
+          "wave": 2,
+          "kills": 44,
+          "bossKills": 0
+        },
+        "40": {
+          "hearts": 7,
+          "level": 13,
+          "wave": 3,
+          "kills": 106,
+          "bossKills": 0
+        },
+        "60": {
+          "hearts": 1,
+          "level": 18,
+          "wave": 4,
+          "kills": 164,
+          "bossKills": 1
+        }
+      },
+      "damageEvents": [
+        {
+          "time": 12.55,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 36.62,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 51.53,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 53.75,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 56.75,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 62.68,
+          "wave": 4,
+          "loss": 1
+        }
+      ]
+    },
+    {
+      "seed": 2026,
+      "bank": 625,
+      "core": 5,
+      "mode": "stationary",
+      "initialHearts": 7,
+      "firstDamage": 9.95,
+      "timeDeath": 52.12,
+      "waveDeath": 3,
+      "minHearts": 0,
+      "finalHearts": 0,
+      "bossKills": 1,
+      "peakEnemies": 23,
+      "peakEnemyBullets": 132,
+      "maxMovement": 0,
+      "elapsed": 52.12,
+      "level": 16,
+      "skillUses": 6,
+      "milestones": {
+        "20": {
+          "hearts": 7,
+          "level": 5,
+          "wave": 2,
+          "kills": 43,
+          "bossKills": 0
+        },
+        "40": {
+          "hearts": 7,
+          "level": 15,
+          "wave": 3,
+          "kills": 108,
+          "bossKills": 1
+        }
+      },
+      "damageEvents": [
+        {
+          "time": 9.95,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 11.8,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 13.72,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 25.7,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 29.32,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 33.93,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 35.82,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 37.45,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 47.1,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 48.75,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 50.47,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 52.12,
+          "wave": 3,
+          "loss": 1
+        }
+      ]
+    },
+    {
+      "seed": 2026,
+      "bank": 625,
+      "core": 5,
+      "mode": "moving",
+      "initialHearts": 7,
+      "firstDamage": 30.43,
+      "timeDeath": 64.37,
+      "waveDeath": 4,
+      "minHearts": 0,
+      "finalHearts": 0,
+      "bossKills": 1,
+      "peakEnemies": 26,
+      "peakEnemyBullets": 126,
+      "maxMovement": 215.61,
+      "elapsed": 64.37,
+      "level": 19,
+      "skillUses": 9,
+      "milestones": {
+        "20": {
+          "hearts": 7,
+          "level": 6,
+          "wave": 2,
+          "kills": 45,
+          "bossKills": 0
+        },
+        "40": {
+          "hearts": 6,
+          "level": 13,
+          "wave": 3,
+          "kills": 107,
+          "bossKills": 0
+        },
+        "60": {
+          "hearts": 5,
+          "level": 18,
+          "wave": 4,
+          "kills": 175,
+          "bossKills": 1
+        }
+      },
+      "damageEvents": [
+        {
+          "time": 30.43,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 36.73,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 48.98,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 57.57,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 60.2,
+          "wave": 4,
+          "loss": 2
+        },
+        {
+          "time": 62.75,
+          "wave": 4,
+          "loss": 2
+        },
+        {
+          "time": 64.37,
+          "wave": 4,
+          "loss": 1
+        }
+      ]
+    },
+    {
+      "seed": 9109,
+      "bank": 625,
+      "core": 5,
+      "mode": "stationary",
+      "initialHearts": 7,
+      "firstDamage": 11.65,
+      "timeDeath": 51.27,
+      "waveDeath": 3,
+      "minHearts": 0,
+      "finalHearts": 0,
+      "bossKills": 1,
+      "peakEnemies": 22,
+      "peakEnemyBullets": 134,
+      "maxMovement": 0,
+      "elapsed": 51.27,
+      "level": 17,
+      "skillUses": 7,
+      "milestones": {
+        "20": {
+          "hearts": 7,
+          "level": 5,
+          "wave": 2,
+          "kills": 45,
+          "bossKills": 0
+        },
+        "40": {
+          "hearts": 7,
+          "level": 15,
+          "wave": 3,
+          "kills": 108,
+          "bossKills": 1
+        }
+      },
+      "damageEvents": [
+        {
+          "time": 11.65,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 15.68,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 25.02,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 27.05,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 33.93,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 35.82,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 45.88,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 47.63,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 49.48,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 51.27,
+          "wave": 3,
+          "loss": 1
+        }
+      ]
+    },
+    {
+      "seed": 9109,
+      "bank": 625,
+      "core": 5,
+      "mode": "moving",
+      "initialHearts": 7,
+      "firstDamage": 10.97,
+      "timeDeath": 64.72,
+      "waveDeath": 4,
+      "minHearts": 0,
+      "finalHearts": 0,
+      "bossKills": 1,
+      "peakEnemies": 36,
+      "peakEnemyBullets": 160,
+      "maxMovement": 215.61,
+      "elapsed": 64.72,
+      "level": 19,
+      "skillUses": 8,
+      "milestones": {
+        "20": {
+          "hearts": 7,
+          "level": 6,
+          "wave": 2,
+          "kills": 43,
+          "bossKills": 0
+        },
+        "40": {
+          "hearts": 7,
+          "level": 15,
+          "wave": 3,
+          "kills": 107,
+          "bossKills": 1
+        },
+        "60": {
+          "hearts": 5,
+          "level": 19,
+          "wave": 4,
+          "kills": 172,
+          "bossKills": 1
+        }
+      },
+      "damageEvents": [
+        {
+          "time": 10.97,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 13.47,
+          "wave": 1,
+          "loss": 1
+        },
+        {
+          "time": 33.45,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 36.25,
+          "wave": 2,
+          "loss": 1
+        },
+        {
+          "time": 50.13,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 52.07,
+          "wave": 3,
+          "loss": 2
+        },
+        {
+          "time": 60.33,
+          "wave": 4,
+          "loss": 2
+        },
+        {
+          "time": 62.17,
+          "wave": 4,
+          "loss": 2
+        },
+        {
+          "time": 64.72,
+          "wave": 4,
+          "loss": 1
+        }
+      ]
+    }
+  ],
+  "summary": [
+    {
+      "bank": 625,
+      "pressuredByEndWave3": 3,
+      "movingAdvantageSeeds": [
+        2026,
+        9109
+      ],
+      "status": "PASS",
+      "criterion": ">=2/3 stationary seeds lose HP by60s, >=1 moving seed survives5s longer OR retains2 more minimum hearts OR delays first damage10s"
+    }
+  ],
+  "limitations": "PureNodeVM480x900/DPR1; no-op Canvas; synchronous60Hz; seeded RNG is also consumed by real FX/render so matching seeds do not guarantee identical later enemy RNG after tactics diverge. No GPU/FPS/mobile/audio/browser storage validation. Stationary uses actual Space skill every100ms only under same danger trigger; moving uses real __autoplay. Actual default rules/weapons/life and profile growth; no private state injected."
+}

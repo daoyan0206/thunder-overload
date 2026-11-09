@@ -1,0 +1,62 @@
+{
+  "schema": 1,
+  "template": "collector",
+  "title": "雷霆战机：无限超载",
+  "slots": {
+    "hero": {
+      "file": "assets/hero.svg",
+      "label": "雷霆战机",
+      "size": [
+        256,
+        256
+      ],
+      "transparent": true
+    },
+    "enemy": {
+      "file": "assets/enemy.svg",
+      "label": "敌方战机",
+      "size": [
+        256,
+        256
+      ],
+      "transparent": true
+    },
+    "pickup": {
+      "file": "assets/pickup.svg",
+      "label": "能量晶体",
+      "size": [
+        256,
+        256
+      ],
+      "transparent": true
+    },
+    "boss": {
+      "file": "assets/boss.svg",
+      "label": "深空毁灭者",
+      "size": [
+        512,
+        512
+      ],
+      "transparent": true
+    }
+  },
+  "rules": {
+    "duration": 60,
+    "hearts": 3,
+    "heroSpeed": 320,
+    "enemySpeed": 120,
+    "enemySpeedGrowth": 3,
+    "enemySpawnEvery": 4,
+    "maxEnemies": 8,
+    "maxPickups": 5,
+    "heroSize": 76,
+    "enemySize": 68,
+    "pickupSize": 44,
+    "shield": {
+      "enabled": false,
+      "every": 3,
+      "seconds": 4
+    }
+  },
+  "style": "精细科幻机械战机，深空蓝黑，霓虹青白能量引擎，金橙爆炸与紫红机械巨型Boss，街机弹幕视觉，清晰轮廓"
+}

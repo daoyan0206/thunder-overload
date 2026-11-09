@@ -1,0 +1,37 @@
+{
+  "schema": 1,
+  "assets": {
+    "hero": {
+      "slot": "hero",
+      "file": "assets/hero.svg",
+      "source": "template",
+      "appliedAt": "2026-11-09T08:57:03.631Z",
+      "license": "MIT (bundled template art, original to dsh-game-studio)",
+      "sha256": "87d09de0112c9ec3e63d28445335136476f76db69954dfa48dc38838a4ba8306"
+    },
+    "enemy": {
+      "slot": "enemy",
+      "file": "assets/enemy.svg",
+      "source": "template",
+      "appliedAt": "2026-11-09T08:57:03.631Z",
+      "license": "MIT (bundled template art, original to dsh-game-studio)",
+      "sha256": "13ea7eab8e55d672194a6fa59cc6298bb7f0a08c26b837262623a58cf9fb58f1"
+    },
+    "pickup": {
+      "slot": "pickup",
+      "file": "assets/pickup.svg",
+      "source": "template",
+      "appliedAt": "2026-11-09T08:57:03.631Z",
+      "license": "MIT (bundled template art, original to dsh-game-studio)",
+      "sha256": "2b0fb8f03e700b0703645ea3b78a5ce0ae5068fe2aa9f7ca9cc40b88b3dd213d"
+    },
+    "boss": {
+      "slot": "boss",
+      "file": "assets/boss.svg",
+      "source": "template",
+      "appliedAt": "2026-11-09T08:57:03.631Z",
+      "license": "MIT (bundled template art, original to dsh-game-studio)",
+      "sha256": "b31a0d7aac26f21d01a231a54a0a569ab4058092d7634e8906382a1ffc2b94b4"
+    }
+  }
+}

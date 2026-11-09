@@ -1,0 +1,17 @@
+{
+  "number": 2,
+  "buildId": "6c1336ce189c",
+  "createdAt": "2026-11-09T09:01:45.305Z",
+  "note": "无限战机：五系火力、循环Boss、雷暴清屏、永久成长与霓虹特效",
+  "title": "雷霆战机：无限超载",
+  "bytes": 45814,
+  "files": {
+    "game.js": "600ad8a20bce39b8467691e665318224b4f47930538186a327924ed7479107f0",
+    "game.json": "5b0550a75bfb6ad391df7568e14ee78b79a1b4de6ee2fcd645c95d8aa51e4701",
+    "assets/ASSETS.json": "52db640f94b5ed96271e335e0d97f965a528ff6b7684d6819267d5ae7997e36d",
+    "assets/boss.svg": "b31a0d7aac26f21d01a231a54a0a569ab4058092d7634e8906382a1ffc2b94b4",
+    "assets/enemy.svg": "13ea7eab8e55d672194a6fa59cc6298bb7f0a08c26b837262623a58cf9fb58f1",
+    "assets/hero.svg": "87d09de0112c9ec3e63d28445335136476f76db69954dfa48dc38838a4ba8306",
+    "assets/pickup.svg": "2b0fb8f03e700b0703645ea3b78a5ce0ae5068fe2aa9f7ca9cc40b88b3dd213d"
+  }
+}

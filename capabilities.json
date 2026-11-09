@@ -1,0 +1,32 @@
+{
+  "capabilities": [
+    {
+      "id": "local-save",
+      "status": "local",
+      "paths": [
+        "game.js",
+        "tests/runtime.test.cjs"
+      ],
+      "note": "Web localStorage实现最高分、晶石、静音保存和永久核心；Node VM坏JSON/禁用存储/死亡重开验证通过，非云存档，未做真机存储验证。"
+    },
+    {
+      "id": "test-smoke-gate",
+      "status": "local",
+      "paths": [
+        "tests/runtime.test.cjs",
+        "tests/balance.test.cjs",
+        "tests/BALANCE.md"
+      ],
+      "note": "纯Node VM 17项实际逻辑回归及18组正常节奏站桩/走位平衡对照；含3成长档、3初始种子、真实技能和位置恒定检查。Chrome试玩约60FPS，非真机/全局平衡验证，非Godot测试/未接CI。"
+    }
+  ],
+  "$comment": "This project's entries in the capability map (F:/capability-library). statuses: planned, local, packaged, live. Never put secrets here.",
+  "project": {
+    "id": "thunder-overload",
+    "name": "雷霆战机：无限超载",
+    "type": "游戏",
+    "engine": "Game Studio / Canvas 2D",
+    "summary": "无限敌潮与Boss的竖屏自动射击游戏，五系火力、雷暴、Web本地成长。"
+  },
+  "updated": "2026-11-09"
+}

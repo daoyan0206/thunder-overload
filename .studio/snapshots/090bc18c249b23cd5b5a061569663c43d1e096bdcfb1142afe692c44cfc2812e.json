@@ -1,0 +1,76 @@
+{
+  "schema": 1,
+  "template": "collector",
+  "title": "雷霆战机：无限超载",
+  "slots": {
+    "hero": {
+      "file": "assets/hero.svg",
+      "label": "雷霆战机",
+      "size": [
+        256,
+        256
+      ],
+      "transparent": true
+    },
+    "enemy": {
+      "file": "assets/enemy.svg",
+      "label": "敌方战机",
+      "size": [
+        256,
+        256
+      ],
+      "transparent": true
+    },
+    "pickup": {
+      "file": "assets/pickup.svg",
+      "label": "能量晶体",
+      "size": [
+        256,
+        256
+      ],
+      "transparent": true
+    },
+    "boss": {
+      "file": "assets/boss.svg",
+      "label": "深空毁灭者",
+      "size": [
+        512,
+        512
+      ],
+      "transparent": true
+    }
+  },
+  "rules": {
+    "hearts": 6,
+    "heroSpeed": 420,
+    "bossEvery": 25,
+    "bossHealth": 12000,
+    "waveEvery": 20,
+    "waveHealthGrowth": 6,
+    "waveHealthCurve": 3,
+    "waveHealthPower": 1.35,
+    "waveBossHealthGrowth": 0.9,
+    "waveBossHealthCurve": 0.2,
+    "waveBossHealthPower": 1.15,
+    "waveMoveGrowth": 0.2,
+    "waveBulletGrowth": 0.22,
+    "waveFireGrowth": 0.35,
+    "waveSpawnGrowth": 0.45,
+    "waveEliteGrowth": 0.045,
+    "waveDamageEvery": 2,
+    "enemySpawnEvery": 0.42,
+    "enemyHealth": 60,
+    "maxEnemies": 48,
+    "maxPlayerBullets": 360,
+    "maxEnemyBullets": 480,
+    "maxParticles": 600,
+    "maxPickups": 90,
+    "startingLevel": 1,
+    "skillCharge": 100,
+    "enemyDamage": 1,
+    "hitInvulnerability": 1.6,
+    "growth": "endless",
+    "duration": 0
+  },
+  "style": "精细科幻机械战机，深空蓝黑，霓虹青白能量引擎，金橙爆炸与紫红机械巨型Boss，街机弹幕视觉，清晰轮廓"
+}

@@ -1,0 +1,134 @@
+{
+  "schema": 1,
+  "project": "F:\\gamestudio-dsh\\thunder-overload",
+  "title": "雷霆战机：无限超载",
+  "orientation": "portrait",
+  "build": {
+    "artifact": "F:\\gamestudio-dsh\\thunder-overload\\dist\\index.html",
+    "buildId": "3d12819e6ca9",
+    "bytes": 49974,
+    "title": "雷霆战机：无限超载",
+    "builtAt": "2026-11-09T10:15:01.838Z"
+  },
+  "slots": {
+    "hero": {
+      "label": "雷霆战机",
+      "file": "assets/hero.svg",
+      "transparent": true,
+      "record": {
+        "slot": "hero",
+        "file": "assets/hero.svg",
+        "source": "template",
+        "appliedAt": "2026-11-09T08:57:03.631Z",
+        "license": "MIT (bundled template art, original to dsh-game-studio)",
+        "sha256": "87d09de0112c9ec3e63d28445335136476f76db69954dfa48dc38838a4ba8306"
+      },
+      "history": 0,
+      "candidates": []
+    },
+    "enemy": {
+      "label": "敌方战机",
+      "file": "assets/enemy.svg",
+      "transparent": true,
+      "record": {
+        "slot": "enemy",
+        "file": "assets/enemy.svg",
+        "source": "template",
+        "appliedAt": "2026-11-09T08:57:03.631Z",
+        "license": "MIT (bundled template art, original to dsh-game-studio)",
+        "sha256": "13ea7eab8e55d672194a6fa59cc6298bb7f0a08c26b837262623a58cf9fb58f1"
+      },
+      "history": 0,
+      "candidates": []
+    },
+    "pickup": {
+      "label": "能量晶体",
+      "file": "assets/pickup.svg",
+      "transparent": true,
+      "record": {
+        "slot": "pickup",
+        "file": "assets/pickup.svg",
+        "source": "template",
+        "appliedAt": "2026-11-09T08:57:03.631Z",
+        "license": "MIT (bundled template art, original to dsh-game-studio)",
+        "sha256": "2b0fb8f03e700b0703645ea3b78a5ce0ae5068fe2aa9f7ca9cc40b88b3dd213d"
+      },
+      "history": 0,
+      "candidates": []
+    },
+    "boss": {
+      "label": "深空毁灭者",
+      "file": "assets/boss.svg",
+      "transparent": true,
+      "record": {
+        "slot": "boss",
+        "file": "assets/boss.svg",
+        "source": "template",
+        "appliedAt": "2026-11-09T08:57:03.631Z",
+        "license": "MIT (bundled template art, original to dsh-game-studio)",
+        "sha256": "b31a0d7aac26f21d01a231a54a0a569ab4058092d7634e8906382a1ffc2b94b4"
+      },
+      "history": 0,
+      "candidates": []
+    }
+  },
+  "spend": {
+    "openaiImages": 0,
+    "openaiUsd": 0,
+    "codexImages": 0,
+    "codexTokens": 0
+  },
+  "jobs": [],
+  "versions": [
+    {
+      "number": 8,
+      "note": "早期压力实测：站桩第3波失败；多成长档18组对照，正常技能保留",
+      "createdAt": "2026-11-09T09:51:23.979Z",
+      "buildId": "3d12819e6ca9"
+    },
+    {
+      "number": 7,
+      "note": "早期压力重调候选：第2波装甲暴涨，弹速射频更快，Boss更厚；加入站桩对照",
+      "createdAt": "2026-11-09T09:48:50.118Z",
+      "buildId": "fb24e08d1486"
+    },
+    {
+      "number": 6,
+      "note": "敌军按波数强化：装甲、移速、弹速、射频、伤害、精英率与敌潮密度同步成长",
+      "createdAt": "2026-11-09T09:30:08.015Z",
+      "buildId": "f9d21f68e959"
+    },
+    {
+      "number": 5,
+      "note": "回归10项通过：实体预算、Boss入场、双指技能、存档降级、死亡重开；清理叠字",
+      "createdAt": "2026-11-09T09:10:02.889Z",
+      "buildId": "457ed63cf95e"
+    },
+    {
+      "number": 4,
+      "note": "Rebuilt from the sidebar",
+      "createdAt": "2026-11-09T09:08:17.494Z",
+      "buildId": "b0fa2b457f01"
+    },
+    {
+      "number": 3,
+      "note": "强化敌潮与快速升级，Boss完整入场无敌，弹幕光效与死亡结算修复",
+      "createdAt": "2026-11-09T09:05:35.361Z",
+      "buildId": "a1256c387e59"
+    },
+    {
+      "number": 2,
+      "note": "无限战机：五系火力、循环Boss、雷暴清屏、永久成长与霓虹特效",
+      "createdAt": "2026-11-09T09:01:45.305Z",
+      "buildId": "6c1336ce189c"
+    },
+    {
+      "number": 1,
+      "note": "Created from the collector template",
+      "createdAt": "2026-11-09T08:57:03.697Z",
+      "buildId": "801c5df72b44"
+    }
+  ],
+  "share": null,
+  "updatedAt": "2026-11-09T10:15:01.843Z"
+}
